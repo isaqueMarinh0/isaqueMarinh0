@@ -1,2 +1,2 @@
 - Quero ser um programador de jogos 
-- estudo C#, javascript e Lua :D
+  
