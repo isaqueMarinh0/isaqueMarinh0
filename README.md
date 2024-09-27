@@ -1,2 +1,3 @@
-- Quero ser um programador de jogos 
-  
+- Aprendendo Java
+- Melhorando conceitos em ciência da computação.
+- Estudando para ser aluno da Universidade Positivo em Curitiba.
