@@ -1,3 +1,3 @@
--Foco em Python, C++ e Javascript \
+-Foco em Python, Java e Javascript \
 -Quero estudar na Unicesumar \
 -Jogos são legais, mas antes preciso de um emprego.
