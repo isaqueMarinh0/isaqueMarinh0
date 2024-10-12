@@ -1,3 +1,3 @@
--Foco em C#, C++ e Javascript
--Quero estudar na Unicesumar
--Jogos são legais, mas antes preciso de um emprego ;-;
+-Foco em C#, C++ e Javascript;
+-Quero estudar na Unicesumar;
+-Jogos são legais, mas antes preciso de um emprego.
