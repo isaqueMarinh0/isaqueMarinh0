@@ -1,3 +1,3 @@
-- Aprendendo Java
-- Melhorando conceitos em ciência da computação.
-- Estudando para ser aluno da Universidade Positivo em Curitiba.
+-Foco em C#, C++ e Javascript
+-Quero estudar na Unicesumar
+-Jogos são legais, mas antes preciso de um emprego ;-;
